@@ -1,6 +1,8 @@
 @media(max-width: 430px){
     body{
-        background: url(../imagens/bg-mobile.svg) no-repeat;
+        background: url(../imagens/bg-mobile.svg) center center no-repeat;
+        background-position-y: 0;
+        background-size: contain;
     }
 
     header{
